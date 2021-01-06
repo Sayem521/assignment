@@ -1,0 +1,35 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-size:70px ;
+}
+.red{
+    color:lightsalmon;
+}
+.link{
+    text-decoration: none;
+    background-image:linear-gradient(180deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight:700;
+}
+p{
+    color: dimgray;
+}
+.side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 50px;
+}
+.side img{
+    width:80%;
+}
+#pad{
+    margin-top: 100px;
+}
